@@ -1,4 +1,13 @@
 {
+  "name": "universal-knowledge",
+  "version": "0.0.1",
+  "description": "A personal knowledge management software that provides an interactive dashboard and data analytics.",
+  "author": "thasup",
+  "homepage": "https://uk.thanachon.me",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thasup/universal-knowledge"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
